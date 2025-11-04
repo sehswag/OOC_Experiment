@@ -46,9 +46,9 @@ double calculatePerimeter() const {
 int main() {
 
     Rectangle rect(4.0, 40.0);
-    std::cout  <<"Name:Shubhada Tarlekar\n";
+    std::cout  <<"Name:Sujal Kambale\n";
     std::cout  <<"Div:B\n";
-    std::cout  <<"Roll no.:95\n";
+    std::cout  <<"Roll no.:105\n";
     std::cout <<"\nRectangle properties:\n" << std::endl;
     std::cout <<"Length: " << rect.getLength() << std::endl;
     std::cout <<"Width: " << rect.getWidth() << std::endl;
@@ -56,3 +56,4 @@ int main() {
     std::cout <<"Perimeter: " << rect.calculatePerimeter() << std::endl;
     return 0;
 }
+
