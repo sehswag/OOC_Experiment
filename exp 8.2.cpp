@@ -28,9 +28,9 @@ return d3;
 
 int main()
 {
-	cout << "Name: Shubhada Tarlekar\n";
+	cout << "Name: Sujal Kambale\n";
     cout << "Div: B\n";
-    cout << "Roll no.: 95\n";
+    cout << "Roll no.: 105\n";
 Distance d1(8, 9);
 Distance d2(10, 2);
 Distance d3;
@@ -39,3 +39,4 @@ d3 = d1 + d2;
 cout << "\nTotal Feet & Inches: " << d3.feet << " " << d3.inch;
 return 0;
 }
+
