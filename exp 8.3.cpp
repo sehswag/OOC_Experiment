@@ -49,9 +49,9 @@ return !(*this < other);
 };
 int main()
 {
-	cout << "Name: Shubhada Tarlekar\n";
+	cout << "Name: Sujal Kambale\n";
     cout << "Div: B\n";
-    cout << "Roll no.: 95\n";
+    cout << "Roll no.: 105\n";
 MyClass obj1(20);
 MyClass obj2(20);
 
@@ -97,3 +97,4 @@ cout << "obj1 is not greater than or equal to obj2" << endl;
 }
 return 0;
 }
+
