@@ -75,9 +75,9 @@ Circle circle(7.0);
 Rectangle rectangle(4.2, 8.0); 
 Triangle triangle(4.0, 4.0, 3.2); 
 
-std::cout  <<"Name:Shubhada Tarlekar\n";
+std::cout  <<"Name:Sujal Kambale\n";
     std::cout  <<"Div:B\n";
-    std::cout  <<"Roll no.:95\n";
+    std::cout  <<"Roll no.:105\n";
 std::cout << "\nCircle: " << std::endl; 
 std::cout << "Area: " << circle.calculateArea() << std::endl; 
 std::cout << "Perimeter: " << circle.calculatePerimeter() << std::endl; 
@@ -91,3 +91,4 @@ std::cout << "Area: " << triangle.calculateArea() << std::endl;
 std::cout << "Perimeter: " << triangle.calculatePerimeter() << std::endl; 
 return 0; 
 }
+
