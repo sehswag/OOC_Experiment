@@ -69,9 +69,9 @@ public:
 int main()
 {
 	
-    cout << "Name: Shubhada Tarlekar\n";
+    cout << "Name: Sujal Kambale\n";
     cout << "Div: B\n";
-    cout << "Roll no.: 95\n";
+    cout << "Roll no.: 105\n";
     StudentResult str; 
     cout << "\n Enter No of Students You Want :";
     str.accept_data();
@@ -79,3 +79,4 @@ int main()
     str.calculate();
     return 0;
 }
+
