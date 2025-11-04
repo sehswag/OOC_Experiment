@@ -24,8 +24,8 @@ class construct
 
 int main()
 {
-    cout<<"Name : Sanafatima Bhatare "<<endl;
-    cout<<"Roll no. : 92"<<endl;
+    cout<<"Name : Sujal Kambale "<<endl;
+    cout<<"Roll no. : 105"<<endl;
     
     construct o;
     construct o2(10,20);
@@ -35,3 +35,4 @@ int main()
 
     return 1;
 }
+
