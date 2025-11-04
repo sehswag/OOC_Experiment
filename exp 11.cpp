@@ -84,8 +84,8 @@ class CommissionedEmployee : public Employee
 
 int main()
 {
-    cout<<"Nmae : Sanafatima Bhatare"<<endl;
-    cout<<"Roll no. : 92"<<endl;
+    cout<<"Nmae : Sujal Kambale"<<endl;
+    cout<<"Roll no. : 105"<<endl;
     cout<<"\n";
     
     Employee* employees[3];
@@ -108,3 +108,4 @@ int main()
 
     return 0;
 }
+
