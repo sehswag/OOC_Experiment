@@ -31,9 +31,10 @@ class TA : public Faculty , public Student {
 
 int main()
 {
-    cout<<"Name : Sanafatima Bhatare"<<endl;
-    cout<<"Roll no. : 92 "<<endl;
+    cout<<"Name : Sujal Kambale"<<endl;
+    cout<<"Roll no. : 105 "<<endl;
     
     TA ta;
     return 0;
 }
+
