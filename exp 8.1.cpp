@@ -22,10 +22,11 @@ cout << "\nFeet & Inches (Decrement): " << feet << " " << inch;
 int main()
 {
 Distance d1(8, 9);
-cout << "Name: Shubhada Tarlekar\n";
+cout << "Name: Sujal Kambale\n";
     cout << "Div: B\n";
-    cout << "Roll no.: 95\n";
+    cout << "Roll no.: 105\n";
 -d1;
 return 0;
 }
+
 
